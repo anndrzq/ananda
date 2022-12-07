@@ -29,10 +29,11 @@ Saya merupakan lulusan dari Smk Plus Pelita Nusantara jurusan Rekayasa Perangkat
 [<img src="https://img.shields.io/badge/Laravel-282C34?logo=laravel&logoColor=F05032" alt="Laravel logo" title="Laravel" height="25" />][learning_now_anchor]
 &nbsp;
 
+
 ### Let's connect with me!
 <p>
-    <a href="https://www.facebook.com/pramsopel/" target="_blank"><img src="https://img.shields.io/badge/Youtube-Ananda R-blue" /></a>
-    <a href="https://www.instagram.com/pram.dpb/" target="_blank"><img src="https://img.shields.io/badge/Instagram-@pram.dpb_-blue" /></a>
+    <a href="https://www.youtube.com/channel/UCHAvXW5D5k-eCAoEyonB0Cg target="_blank"><img src="https://img.shields.io/badge/Youtube-Ananda R-blue" /></a>
+    <a href="https://www.instagram.com/anndrzq/" target="_blank"><img src="https://img.shields.io/badge/Instagram-@anndrzq-blue" /></a>
 </p>
  
 
