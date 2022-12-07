@@ -22,10 +22,6 @@ Saya merupakan lulusan dari Smk Plus Pelita Nusantara jurusan Rekayasa Perangkat
 <a name="learning-next"></a>
 
 ### 📖 Saya Sedang Mempelajari
-[<img src="https://img.shields.io/badge/React JS-282C34?logo=react&logoColor=61DAFB" alt="React logo" title="React" height="25" />][learning_now_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="Tailwind CSS logo" title="Tailwind CSS" height="25" />][learning_now_anchor]
-&nbsp;
 [<img src="https://img.shields.io/badge/Django-282C34?logo=Django&logoColor=F05032" alt="Laravel logo" title="Laravel" height="25" />][learning_now_anchor]
 &nbsp;
 
