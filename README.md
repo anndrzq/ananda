@@ -7,7 +7,7 @@ Saya merupakan lulusan dari Smk Plus Pelita Nusantara jurusan Rekayasa Perangkat
 
 <!-- ![2021-08-10 20-43-14 2021-08-10 20_45_32](https://user-images.githubusercontent.com/36594527/131284497-24a6db5f-d86d-4548-81cc-fa6aa186892c.gif) -->
 
-### 🛠  Technologies and tools
+### 🛠  Teknologi yang saya gunakan
 
 <a name="learning-now"></a>
 
@@ -15,13 +15,7 @@ Saya merupakan lulusan dari Smk Plus Pelita Nusantara jurusan Rekayasa Perangkat
 &nbsp;
 [<img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />][tech_tools_anchor]
-&nbsp;
 [<img src="https://img.shields.io/badge/PHP-282C34?logo=php&logoColor=4D588E" alt="PHP logo" title="PHP" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/CodeIgniter-282C34?logo=codeigniter&logoColor=F05032" alt="CodeIgniter logo" title="CodeIgniter" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/GIT-282C34?logo=git&logoColor=F05032" alt="git logo" title="GIT" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />][tech_tools_anchor]
 &nbsp;
