@@ -7,8 +7,7 @@ Saya merupakan lulusan dari Smk Plus Pelita Nusantara jurusan Rekayasa Perangkat
 
 <!-- ![2021-08-10 20-43-14 2021-08-10 20_45_32](https://user-images.githubusercontent.com/36594527/131284497-24a6db5f-d86d-4548-81cc-fa6aa186892c.gif) -->
 
-### 🛠  Teknologi yang saya gunakan
-
+### 🛠  Teknologi Yang Saya Gunakan
 <a name="learning-now"></a>
 
 [<img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />][tech_tools_anchor]
@@ -22,8 +21,7 @@ Saya merupakan lulusan dari Smk Plus Pelita Nusantara jurusan Rekayasa Perangkat
 
 <a name="learning-next"></a>
 
-### 📖  What I am currently learning / improving on
-
+### 📖 Saya Sedang Mempelajari
 [<img src="https://img.shields.io/badge/React JS-282C34?logo=react&logoColor=61DAFB" alt="React logo" title="React" height="25" />][learning_now_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="Tailwind CSS logo" title="Tailwind CSS" height="25" />][learning_now_anchor]
