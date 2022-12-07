@@ -37,10 +37,6 @@ Saya merupakan lulusan dari Smk Plus Pelita Nusantara jurusan Rekayasa Perangkat
 [<img src="https://img.shields.io/badge/Laravel-282C34?logo=laravel&logoColor=F05032" alt="Laravel logo" title="Laravel" height="25" />][learning_now_anchor]
 &nbsp;
 
-
-### Some Fun Facts about me:
-I've founded a few companies in the past :zap: I love playing video games which you'll find over on my [Twitch Channel](http://twitch.tv/MishManners). On my channel, I also do live coding! I'm super into sports, including lots of outdoor adventures like hiking, snowboarding, and wakeboarding. You'll probably run into me at an event, but for now, follow me online, jump in on my Twitch chats, or chat me at a virtual conference!
-
 ## GitHub Stats
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=anndrzq&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" alt="GitHub Stats for anndrzq" width="600"><img src="https://github-readme-streak-stats.herokuapp.com?user=anndrzq&theme=jolly" width="600"></p>
