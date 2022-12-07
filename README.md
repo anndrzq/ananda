@@ -28,7 +28,7 @@ Saya merupakan lulusan dari Smk Plus Pelita Nusantara jurusan Rekayasa Perangkat
 &nbsp;
 
 
-### Let's connect with me!
+### Anda Bisa Terhubung Dengan Saya Melalui
 <p>
     <a href="https://www.youtube.com/channel/UCHAvXW5D5k-eCAoEyonB0Cg target="_blank"><img src="https://img.shields.io/badge/Youtube-Ananda R-blue" /></a>
     <a href="https://www.instagram.com/anndrzq/" target="_blank"><img src="https://img.shields.io/badge/Instagram-@anndrzq-blue" /></a>
