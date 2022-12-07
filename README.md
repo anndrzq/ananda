@@ -31,7 +31,7 @@ Saya merupakan lulusan dari Smk Plus Pelita Nusantara jurusan Rekayasa Perangkat
 
 ### Let's connect with me!
 <p>
-    <a href="https://www.facebook.com/pramsopel/" target="_blank"><img src="https://img.shields.io/badge/Facebook-Pram-blue" /></a>
+    <a href="https://www.facebook.com/pramsopel/" target="_blank"><img src="https://img.shields.io/badge/Youtube-Ananda R-blue" /></a>
     <a href="https://www.instagram.com/pram.dpb/" target="_blank"><img src="https://img.shields.io/badge/Instagram-@pram.dpb_-blue" /></a>
 </p>
  
