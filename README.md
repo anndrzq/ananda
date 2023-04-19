@@ -26,6 +26,9 @@ Saya merupakan lulusan dari Smk Plus Pelita Nusantara jurusan Rekayasa Perangkat
 ### 📖 Saya Sedang Mempelajari
 [<img src="https://img.shields.io/badge/Django-282C34?logo=Django&logoColor=F05032" alt="Laravel logo" title="django" height="25" />][learning_now_anchor]
 &nbsp;
+[<img src="https://img.shields.io/badge/Laravel-282C34?logo=laravel&logoColor=F05032" alt="Laravel logo" title="Laravel" height="25" />][learning_now_anchor]
+&nbsp;
+
 
 
 ### Anda Bisa Terhubung Dengan Saya Melalui
