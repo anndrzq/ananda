@@ -37,10 +37,5 @@ Saya merupakan lulusan dari Smk Plus Pelita Nusantara jurusan Rekayasa Perangkat
     <a href="https://www.instagram.com/anndrzq/" target="_blank"><img src="https://img.shields.io/badge/Instagram-@anndrzq-blue" /></a>
 </p>
  
-
- ## GitHub Stats
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=anndrzq&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" alt="GitHub Stats for anndrzq" width="600"><img src="https://github-readme-streak-stats.herokuapp.com?user=anndrzq&theme=jolly" width="600"></p>
-
 [tech_tools_anchor]: #bonjour--
 [learning_now_anchor]: #learning-now
